@@ -1,17 +1,17 @@
 [[items]]
 title = "Regressão Linear Interativa"
-image = "images/full/1.png"
-thumb = "images/thumbs/1.png"
+image = "images/full/2.png"
+thumb = "images/thumbs/2.png"
 alt = "Regressão Linear Interativa"
 description = "Um aplicativo capaz de demonstrar as características principais de uma regressão linear simples."
 url = "http://shiny.estatistica.ccet.ufrn.br/regressao-linear-interativa/"
 
 [[items]]
-title = "Hugrid Theme"
-image = "images/full/2.png"
-thumb = "images/thumbs/2.png"
+title = "ENEM"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
 alt = "ENEM"
-description = "Visualiação gráfica e resumida dos resultados das edições do ENEM nos anos de 2010 a 2015."
+description = "Visualização gráfica e resumida dos resultados das edições do ENEM nos anos de 2010 a 2015."
 url = "http://shiny.estatistica.ccet.ufrn.br/enem/"
 
 [[items]]
@@ -19,5 +19,5 @@ title = "Intervalos de Confiança"
 image = "images/full/3.png"
 thumb = "images/thumbs/3.png"
 alt = "Intervalos de Confiança"
-description = "Aplicativo demonstrando como intervalos de confiança funcionanm na prática."
+description = "Aplicativo demonstrando como intervalos de confiança funcionam na prática."
 url = "http://shiny.estatistica.ccet.ufrn.br/IC/"
