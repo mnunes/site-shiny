@@ -1,4 +1,12 @@
 [[items]]
+title = "Sobre"
+image = "images/full/2.png"
+thumb = "images/thumbs/2.png"
+alt = "Regressão Linear Interativa"
+description = "Um aplicativo capaz de demonstrar as características principais de uma regressão linear simples."
+url = "http://shiny.estatistica.ccet.ufrn.br/regressao-linear-interativa/"
+
+[[items]]
 title = "Regressão Linear Interativa"
 image = "images/full/2.png"
 thumb = "images/thumbs/2.png"
