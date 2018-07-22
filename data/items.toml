@@ -3,8 +3,8 @@ title = "Sobre"
 image = "images/full/4.png"
 thumb = "images/thumbs/4.png"
 alt = "Sobre"
-description = "Descubra qual a proposta desde site."
-url = "http://shiny.estatistica.ccet.ufrn.br/sobre.html"
+description = "Site com aplicações interativas de estatística construídas a partir da biblioteca shiny do R. Clique nas outras imagens para experimentá-las."
+url = "http://marcusnunes.me/"
 
 [[items]]
 title = "Regressão Linear Interativa"
