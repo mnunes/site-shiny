@@ -3,8 +3,26 @@ title = "Sobre"
 image = "images/full/4.png"
 thumb = "images/thumbs/4.png"
 alt = "Sobre"
-description = "Site com aplicações interativas de estatística construídas a partir da biblioteca shiny do R. Clique nas outras imagens para experimentá-las."
+description = "Site com aplicações interativas de estatística construídas a partir da biblioteca shiny do R. Clique nas outras imagens para experimentá-las. Clique no link abaixo para saber mais sobre o mantenedor deste site."
 url = "http://marcusnunes.me/"
+
+
+[[items]]
+title = "Jogadores Similares"
+image = "images/full/6.png"
+thumb = "images/thumbs/6.png"
+alt = "Jogadores Similares"
+description = "Escolha algum jogador de PES 2019 e veja quais são os outros 9 jogadores mais parecidos com ele."
+url = "http://shiny.estatistica.ccet.ufrn.br/JogadoresSimilares/"
+
+[[items]]
+title = "Dashboard Deputados"
+image = "images/full/5.png"
+thumb = "images/thumbs/5.png"
+alt = "Dashboard Deputados"
+description = "Descubra quais foram os reembolsos realizados pelos deputados brasileiros entre 2009 e 2017."
+url = "http://shiny.estatistica.ccet.ufrn.br/DashboardDeputados/"
+
 
 [[items]]
 title = "Regressão Linear Interativa"
