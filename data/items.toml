@@ -3,9 +3,32 @@ title = "Sobre"
 image = "images/full/4.png"
 thumb = "images/thumbs/4.png"
 alt = "Sobre"
-description = "Site com aplicações interativas de estatística construídas a partir da biblioteca shiny do R. Clique nas outras imagens para experimentá-las. Clique no link abaixo para saber mais sobre o mantenedor deste site."
-url = "http://marcusnunes.me/"
+description = "Site com aplicações interativas de estatística construídas a partir da biblioteca shiny do R. Clique nas outras imagens para experimentá-las. Idealizado e mantido por Marcus Nunes. Clique na seta abaixo para saber mais sobre mim."
+url="https://marcusnunes.me/"
 
+[[items]]
+title = "Painel COVID-19"
+image = "images/full/9.png"
+thumb = "images/thumbs/9.png"
+alt = "Painel COVID-19"
+description = "Acompanhe informações sobre número de casos, mortes e incidência de COVID-19 no Brasil e no mundo em tempo real."
+url = "http://shiny.estatistica.ccet.ufrn.br/Covid-19/"
+
+[[items]]
+title = "SRAG ou COVID-19?"
+image = "images/full/8.png"
+thumb = "images/thumbs/8.png"
+alt = "SRAG ou COVID-19?"
+description = "2020 trouxe um aumento muito grande nos casos de Síndrome Respiratória Aguda Grave (SRAG). Verifique a situação nos estados brasileiros e compare os dados a partir de 2011."
+url = "http://shiny.estatistica.ccet.ufrn.br/srag/"
+
+[[items]]
+title = "Doenças Cardiovasculares"
+image = "images/full/7.png"
+thumb = "images/thumbs/7.png"
+alt = "Doenças Cardiovasculares"
+description = "Entre com dados biométricos e descubra a sua probabilidade de ter uma doença cardiovascular, baseada em dados obtidos em uma amostra de 70 mil pessoas."
+url = "http://shiny.estatistica.ccet.ufrn.br/DoencasCardiovasculares/"
 
 [[items]]
 title = "Jogadores Similares"
@@ -20,7 +43,7 @@ title = "Dashboard Deputados"
 image = "images/full/5.png"
 thumb = "images/thumbs/5.png"
 alt = "Dashboard Deputados"
-description = "Descubra quais foram os reembolsos realizados pelos deputados brasileiros entre 2009 e 2017."
+description = "Consulte os pedidos de reembolso realizados pelos deputados federais brasileiros entre 2009 e 2019."
 url = "http://shiny.estatistica.ccet.ufrn.br/DashboardDeputados/"
 
 
