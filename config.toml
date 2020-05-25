@@ -1,5 +1,0 @@
-baseURL = "http://shiny.estatistica.ccet.ufrn.br/"
-languageCode = "pt-br"
-title = "Aplicações em Shiny"
-theme = "hugrid"
-
