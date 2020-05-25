@@ -8,11 +8,19 @@ url="https://marcusnunes.me/"
 
 [[items]]
 title = "Painel COVID-19"
+image = "images/full/10.png"
+thumb = "images/thumbs/10.png"
+alt = "Shiny Series"
+description = "Aplicativo para ajuste e análise de modelos ARIMA a séries temporais."
+url = "http://shiny.estatistica.ccet.ufrn.br/shinySeries/"
+
+[[items]]
+title = "Painel COVID-19"
 image = "images/full/9.png"
 thumb = "images/thumbs/9.png"
 alt = "Painel COVID-19"
-description = "Acompanhe informações sobre número de casos, mortes e incidência de COVID-19 no Brasil e no mundo em tempo real."
-url = "http://shiny.estatistica.ccet.ufrn.br/Covid-19/"
+description = "Acompanhe informações sobre número de casos, mortes e incidência de COVID-19 no Brasil e no mundo em tempo real. (embreve)"
+url = "http://shiny.estatistica.ccet.ufrn.br/"
 
 [[items]]
 title = "SRAG ou COVID-19?"
